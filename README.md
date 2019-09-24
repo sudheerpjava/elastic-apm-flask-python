@@ -1,4 +1,4 @@
-# Elastic APM python configuration
+# Elastic APM flask application configuration
 
 ## 1.Add below configuration on Flask app to integrate with elastic apm
 ```
